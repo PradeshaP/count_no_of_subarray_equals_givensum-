@@ -1,1 +1,1 @@
-# count_no_of_subarray_equals_givensum-
+The goal of this program is to solve the "Subarray Sum Equals K" problem. Given an integer array `nums` and an integer `k`, the task is to find the total number of continuous subarrays whose sum equals to `k`
